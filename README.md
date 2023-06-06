@@ -6,21 +6,21 @@
 
 <img width="435" alt="Screen Shot 2023-05-29 at 8 45 14 PM" src="https://github.com/pasqualerossi/pasqualerossi/assets/58959408/f8811937-190d-4ebb-8823-cd8f319ca875">
 
-### 42 Campus Resources
+<!-- ### 42 Campus Resources -->
 
-| :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)|
+<!-- | :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)| -->
 |:--|
 
 <br>
-
+<!-- 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com) -->
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,ts,nodejs,postgres,docker)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=vue,ts,nodejs,postgres,docker)](https://skillicons.dev) -->
 
 <br>
 
@@ -40,7 +40,7 @@
 
 ## 🧑‍💻 Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,vim,vscode(https://skillicons.dev)
 
 <br>
 

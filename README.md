@@ -6,7 +6,8 @@
 ## My 42 Details
 
 <!-- (https://profile.intra.42.fr/users/mmirzaie) -->
-[![mmirzaie's 42 stats](https://badge.mediaplus.ma/greenbinary/mmirzaie?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<!-- [![mmirzaie's 42 stats](https://badge.mediaplus.ma/greenbinary/mmirzaie?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
+[![mmirzaie's 42 stats](https://badge.mediaplus.ma/greenbinary/mmirzaie)](https://github.com/oakoudad/badge42)
 
 <br>
 

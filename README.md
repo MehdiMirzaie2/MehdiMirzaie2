@@ -1,6 +1,8 @@
 ![Header](https://github.com/MehdiMirzaie2/images/blob/master/github-header-image.png)
 <br>
 
+![](https://komarev.com/ghpvc/?username=MehdiMirzaie2)
+
 Welcome to my repo, checkout my code!
 
 ## My 42 Details

@@ -12,7 +12,7 @@ Welcome to my repo, checkout my code!
 <!-- [![mmirzaie's 42 stats](https://badge.mediaplus.ma/greenbinary/mmirzaie)](https://github.com/oakoudad/badge42) -->
 [![mmirzaie's 42 stats](https://badge.mediaplus.ma/greenbinary/mmirzaie?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-- 🔭 I’m currently working on [Fractol](https://github.com/MehdiMirzaie2/fractol)
+- 🔭 I’m currently working on [Philosophers](https://github.com/MehdiMirzaie2/philosophers)
 
 - 🌱 I’m currently learning **c | c++ | CSS/HTML | Javascript**
 

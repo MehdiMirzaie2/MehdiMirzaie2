@@ -11,7 +11,7 @@ Welcome to my repo, checkout my code!
 
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhpbDI0NjdjcDliMHNhdzJqNzM5eDJ5NTJ6cHIxMHB4NGdmOHpkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 🔭 I’m currently working on [Philosophers](https://github.com/MehdiMirzaie2/philosophers) / [Budget](https://github.com/MehdiMirzaie2/python/tree/main/budget)
+- 🔭 I’m currently working on [Philosophers](https://github.com/MehdiMirzaie2/philosophers)
 
 - 🌱 I’m currently learning **C | C++ | Python | CSS/HTML | Javascript**
 

@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MehdiMirzaie2)
 
-Welcome to my repo, checkout my code!
+Go, shorty, it's your birthday 🎂 
 
 <!-- ## My 42 Details
 

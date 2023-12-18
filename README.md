@@ -3,8 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=MehdiMirzaie2)
 
-Go, shorty, it's your birthday 🎂 
-
 <!-- ## My 42 Details
 
 [![mmirzaie's 42 stats](https://badge.mediaplus.ma/greenbinary/mmirzaie?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->

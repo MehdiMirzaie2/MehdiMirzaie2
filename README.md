@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [c++ web server ](https://github.com/louissxu/42-webserv)
 
-- 🌱 I’m currently learning **C | C++ | Python | CSS/HTML | Javascript | Docker**
+- 🌱 I’m currently learning **Python | Django | Typescript | React | Docker**
 
 - 💬 Ask me about **C**
 

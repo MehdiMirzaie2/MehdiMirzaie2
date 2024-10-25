@@ -9,11 +9,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhpbDI0NjdjcDliMHNhdzJqNzM5eDJ5NTJ6cHIxMHB4NGdmOHpkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 🔭 I’m currently working on [c++ web server ](https://github.com/louissxu/42-webserv)
-
 - 🌱 I’m currently learning **Python | Django | Typescript | React | Docker**
-
-- 💬 Ask me about **C**
 
 - 📫 How to reach me **mehdimirzaie18@gmail.com**
 

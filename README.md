@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **mehdimirzaie18@gmail.com**
 
+- My resume [Website](https://mehdimirzaie2.github.io/snake_resume/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/mehdimirzaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehdimirzaie" height="30" width="40" /></a>
